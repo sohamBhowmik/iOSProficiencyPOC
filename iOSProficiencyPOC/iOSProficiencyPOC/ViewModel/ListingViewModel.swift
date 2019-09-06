@@ -88,7 +88,7 @@ extension ListingViewModel
         }
         
         return imageURLString
-    }
+    }   
 }
 
 extension ListingViewModel
